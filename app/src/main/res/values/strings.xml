@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application_b</string>
+
+
+        <string name="naver_client_id">vixtYLHPv2e9g1YLLPdH</string>
+        <string name="naver_client_secret">bKS97Ev0mM</string>
+        <string name="naver_client_name">naverlog</string>
+
+</resources>
